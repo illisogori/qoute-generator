@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Tammudu+2&display=swap');
 html {
     box-sizing: border-box;
 }
@@ -5,4 +6,16 @@ html {
 body{
     margin: 0;
     min-height: 100vh;
+    background-color: #8962c5;
+    background-color: #e0cefb;
+    background-color: #e0cefb;
+    background-color: #DFDBE5;
+    background-image: url("data:image/svg+xml,%3Csvg width='20' height='20' viewBox='0 0 20 20' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0 0h20L0 20z' fill='%239C92AC' fill-opacity='0.4' fill-rule='evenodd'/%3E%3C/svg%3E");
+    color: black;
+    font-family: 'Baloo Tammudu 2', cursive;
+    font-weight: 700;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
